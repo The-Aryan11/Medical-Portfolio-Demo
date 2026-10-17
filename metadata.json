@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Arjun Mehra — Neurosurgeon",
+  "description": "A cinematic portfolio of Dr. Arjun Mehra, neurosurgeon: awake brain surgery, skull-base work, teaching and the story behind the hands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
